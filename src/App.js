@@ -3,6 +3,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 //Code to import Budget.js
+// eslint-disable-next-line
 import Budget from './components/Budget';
 
 // Add code to import the other components here under
